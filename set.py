@@ -29,7 +29,7 @@ with Image.open("img.gif") as im:
 #         )
 r"""
 /*\ ## 
-|*| > `$ gif-wallpaper frames 65`
+|*| > `$ gif-wallpaper frames 100`
 |*| - [gif-wallpaper](https://github.com/wvovaw/gif-wallpaper)
 |*| - [paperview](https://github.com/glouw/paperview)
 \*/
